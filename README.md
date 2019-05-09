@@ -1,2 +1,4 @@
 # CSCI4314
-CSCI Algorithms for Molecularbiology 
+CSCI Algorithms for Molecularbiology  
+
+Final Project Code
